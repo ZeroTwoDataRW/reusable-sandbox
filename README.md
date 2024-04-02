@@ -1,12 +1,12 @@
 # Reusable Sandbox Optimization Initiative
 
 ## Project Flywheel: Revolutionizing Product Demo Delivery Process
-Amidst a surge in prospective deals, the CEO tasked us with a pivotal mission: overhaul our product demo delivery process. Joining a team of six adept Sales Engineers, I was entrusted with spearheading this transformation. My recruitment underscored my specialized technical expertise and dedication to driving impactful change within the organization.
+Amidst a surge in prospective deals, the CEO tasked us with a pivotal mission: overhaul our product demo delivery process. Joining a team of six adept Sales Engineers, I was entrusted with spearheading this transformation. My recruitment underscored my specialized technical expertise and dedication to driving impactful change within the organization. Over the course of six months, I meticulously crafted the first version of our <b>reusable sandbox</b>, setting the foundation for optimized product demo delivery and laying the groundwork for future enhancements and scalability.
 
 ## Understanding the Importance of a Data Catalog in the Data World:
 A data catalog is a centralized inventory or repository that provides metadata and information about the data assets (tables, metrics, KPI's, etc.) within an organization. It serves as a comprehensive and organized index, allowing users to discover, understand, and effectively utilize available data resources. The primary purpose of a data catalog is to improve data management, accessibility, and collaboration within an organization.
 
-## Benefits:
+### Advantages of a Data Catalog:
 
 1. **Collaborative Environment:**
    - Encourages collaboration among individuals and teams, fostering a sense of community in the data space.

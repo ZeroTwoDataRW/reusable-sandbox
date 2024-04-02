@@ -34,7 +34,7 @@ A data catalog is a centralized inventory or repository that provides metadata a
 8. **Analytics and Visualization Tools:**
    - Built-in or integrated analytics and visualization tools empower users to derive insights from data and present findings in a compelling way.
 
-## Reusable Sandbox
+## Reusable Sandbox Screenshots
 
 ![image](https://github.com/ZeroTwoData/Reusable-data.world-Sandbox/assets/74563990/a4730b2f-a06a-4cd6-872f-481cd79b8400)
 

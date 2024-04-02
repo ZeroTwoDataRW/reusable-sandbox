@@ -49,7 +49,7 @@ A data catalog is a centralized inventory or repository that provides metadata a
 ![image](https://github.com/ZeroTwoData/Reusable-data.world-Sandbox/assets/74563990/3be82683-d7c4-4f78-98f5-ec2f177198ea)
 
 ## Curated a Main Demo Flow:
-Average Order Value (Metric) --> --> RETAIL_ORDER (Snowflake Table) --> Orders (Tableau Embedded Data Source)
+Average Order Value (Metric) --> RETAIL_ORDER (Snowflake Table) --> Orders (Tableau Embedded Data Source)
 
 ![image](https://github.com/ZeroTwoData/Reusable-data.world-Sandbox/assets/74563990/3dfffaf1-a838-4cce-a7da-c3bec0cd05e4)
 

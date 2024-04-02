@@ -71,7 +71,9 @@ Average Order Value (Metric) --> RETAIL_ORDER (Snowflake Table) --> Orders (Tabl
 
 ![image](https://github.com/ZeroTwoData/Reusable-data.world-Sandbox/assets/74563990/4a1f8fdf-ec79-4f6b-aa5d-d81c3e448857)
 
-## Files Built Using TTL ([RDF language](https://www.w3.org/TeamSubmission/turtle/))
+## Files Built Using TTL ([RDF language](https://www.w3.org/TeamSubmission/turtle/)) ; [Syntax Guide:](https://datadotworld.github.io/demo.ttl/)
+
+![image](https://github.com/ZeroTwoDataRW/reusable-sandbox/assets/163179337/23d9ee1f-4831-4a5a-9e48-156a28f6775c)
 
 ![image](https://github.com/ZeroTwoData/Reusable-data.world-Sandbox/assets/74563990/5666d4e1-387a-45ba-bd02-83da8306e63c)
 
